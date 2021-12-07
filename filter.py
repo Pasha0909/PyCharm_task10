@@ -1,3 +1,5 @@
+import doctest
+
 from PIL import Image
 import numpy as np
 
@@ -14,9 +16,15 @@ def get_illumination(pixels, p_x, p_y, size):
     return int(result // (size * size))
 
 def install_color(pixels, illumination, size, p_x, p_y, step):
+    """
+    Закрашивает пиксели в один цвет
+    """
     pixels[p_x: p_x + size, p_y: p_y + size] = int(illumination // step) * step
 
 def get_gray(pixels, gradation, size):
+    """
+    Возвращает итоговое изображение
+    """
     step = 255 // (gradation - 1)
     hei = len(pixels)
     wid = len(pixels[1])
@@ -25,6 +33,10 @@ def get_gray(pixels, gradation, size):
             illumination = get_illumination(pixels, x, y, size)
             install_color(pixels, illumination, size, x, y, step)
     return pixels
+
+if __name__ == '__main__':
+    doctest.testmod()
+
 img = Image.open('img2.jpg')
 pixels = np.array(img)
 res = Image.fromarray(get_gray(pixels,
