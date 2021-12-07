@@ -2,6 +2,13 @@ from PIL import Image
 import numpy as np
 
 def get_illumination(pixels, p_x, p_y, size):
+    """
+    Считает компонет серого цвета и возвращает среднюю яркость
+    >>> get_illumination(np.array(Image.open('img2.jpg')), 7, 4, 9)
+    18
+    >>> get_illumination(np.array(Image.open('img2.jpg')), 15, 10, 10)
+    19
+    """
     summa = np.sum(pixels[p_x: p_x + size, p_y: p_y + size])
     result = int(summa // 3)
     return int(result // (size * size))
