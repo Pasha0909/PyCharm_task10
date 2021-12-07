@@ -20,7 +20,7 @@ def get_gray(pixels, gradation, size):
     return pixels
 img = Image.open('img2.jpg')
 pixels = np.array(img)
-res = Image.fromarray(get_gray(pixels,
-                                int(input("Введите размер градации")),
-                                int(input("Введите размер мозаики"))))
-res.save('res2.jpg')
+size_mosaics = 10
+gradation = 50
+res = Image.fromarray(get_gray(pixels, gradation, size_mosaics))
+res.save('res1.jpg')
