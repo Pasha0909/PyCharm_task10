@@ -10,10 +10,11 @@
 
 # Изображения
 0. До обработки:
-<img width="1280" alt="p1" src="https://user-images.githubusercontent.com/73825639/145052139-c9c7568a-3344-4395-bca0-db7b6e99250d.jpg">
+![image](https://user-images.githubusercontent.com/73825639/145052804-5ec400b6-e66b-4373-977b-cdcbf41b0d5e.png)
 1. После обработки old_filter.py:
-![res](https://user-images.githubusercontent.com/73825639/145051742-5c966343-813f-4563-bbb8-6e67b774fd5a.jpg)
+![image](https://user-images.githubusercontent.com/73825639/145052899-9b5efc06-24a8-4ca6-bb9d-afd45ef1fd23.png)
 2. После обработки filter.py:
-![res1](https://user-images.githubusercontent.com/73825639/145051834-50652c8a-8106-4041-ba6b-50ce5f5d7c4b.jpg)
+![image](https://user-images.githubusercontent.com/73825639/145052941-37a206e0-bf0b-4001-a6f1-d4ffaa3812c7.png)
 3. После обработки filter_with_filename.py:
-![res2](https://user-images.githubusercontent.com/73825639/145051896-b26aa78e-bd08-476a-bfec-46f3eb7eb46a.jpg)
+![image](https://user-images.githubusercontent.com/73825639/145052979-0d7538f1-e0c1-4b66-8d9a-8c3c0185d9f9.png)
+
