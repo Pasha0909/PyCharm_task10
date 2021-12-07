@@ -18,3 +18,8 @@
 3. После обработки filter_with_filename.py:
 <img width="700" alt="pmkp1" src="https://user-images.githubusercontent.com/73825639/145052979-0d7538f1-e0c1-4b66-8d9a-8c3c0185d9f9.png">
 
+# doc-тесты
+На снимке видно, как прописаны doc-тесты для функции get_illumination, а также как они выполняются
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/73825639/145062391-af2b1c0e-8f1a-474e-bfdd-f66ade9d45d2.png">
+Ниже пример того, что будет в случае, если тест не выполняется
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/73825639/145063108-bc835ceb-7ff4-4b76-949c-2c4a21068200.png">
