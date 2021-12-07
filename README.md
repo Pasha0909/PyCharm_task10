@@ -9,8 +9,8 @@
 Без введения данных с консили видим, насколько уменьшилось время, это просходит из-за исправления ошибок в коде, а также использования библиотек и выделению функций.
 
 # Изображения
-0. До обработки
-![img2](https://user-images.githubusercontent.com/73825639/145052139-c9c7568a-3344-4395-bca0-db7b6e99250d.jpg)
+0. До обработки:
+<img width="1280" alt="p1" src="https://user-images.githubusercontent.com/73825639/145052139-c9c7568a-3344-4395-bca0-db7b6e99250d.jpg">
 1. После обработки old_filter.py:
 ![res](https://user-images.githubusercontent.com/73825639/145051742-5c966343-813f-4563-bbb8-6e67b774fd5a.jpg)
 2. После обработки filter.py:
