@@ -10,11 +10,11 @@
 
 # Изображения
 0. До обработки:
-![image](https://user-images.githubusercontent.com/73825639/145052804-5ec400b6-e66b-4373-977b-cdcbf41b0d5e.png)
+<img width="700" alt="pre1" src="https://user-images.githubusercontent.com/73825639/145052804-5ec400b6-e66b-4373-977b-cdcbf41b0d5e.png">
 1. После обработки old_filter.py:
-![image](https://user-images.githubusercontent.com/73825639/145052899-9b5efc06-24a8-4ca6-bb9d-afd45ef1fd23.png)
+<img width="700" alt="pwe1" src="https://user-images.githubusercontent.com/73825639/145052899-9b5efc06-24a8-4ca6-bb9d-afd45ef1fd23.png">
 2. После обработки filter.py:
-![image](https://user-images.githubusercontent.com/73825639/145052941-37a206e0-bf0b-4001-a6f1-d4ffaa3812c7.png)
+<img width="700" alt="pmk1" src="https://user-images.githubusercontent.com/73825639/145052941-37a206e0-bf0b-4001-a6f1-d4ffaa3812c7.png">
 3. После обработки filter_with_filename.py:
-![image](https://user-images.githubusercontent.com/73825639/145052979-0d7538f1-e0c1-4b66-8d9a-8c3c0185d9f9.png)
+<img width="700" alt="pmkp1" src="https://user-images.githubusercontent.com/73825639/145052979-0d7538f1-e0c1-4b66-8d9a-8c3c0185d9f9.png">
 
