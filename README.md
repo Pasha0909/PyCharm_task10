@@ -1,2 +1,5 @@
 # PyCharm_task10
-<img width="1280" alt="image" src="https://user-images.githubusercontent.com/73825639/145038859-de375d6d-6d01-4b6a-9307-779dee675314.png">
+1. Результат filter.py:
+<img width="1280" alt="p1" src="https://user-images.githubusercontent.com/73825639/145039033-99556dc1-0917-4a6c-977d-76f06187a1a6.png">
+2. Результат old_filter.py:
+<img width="1280" alt="p2" src="https://user-images.githubusercontent.com/73825639/145039130-99ba50d7-81c0-4366-ada0-3f9c88e2884d.png">
