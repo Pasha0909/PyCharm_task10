@@ -23,4 +23,4 @@ pixels = np.array(img)
 size_mosaics = 10
 gradation = 50
 res = Image.fromarray(get_gray(pixels, gradation, size_mosaics))
-res.save('res1.jpg')
+res.save('res2.jpg')

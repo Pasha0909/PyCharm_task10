@@ -23,4 +23,4 @@ pixels = np.array(img)
 res = Image.fromarray(get_gray(pixels,
                                 int(input("Введите размер градации")), 
                                 int(input("Введите размер мозаики"))))
-res.save('res2.jpg')
+res.save('res1.jpg')
