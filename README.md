@@ -26,3 +26,13 @@
 
 У функции install_color - нет тестов, поскольку она ничего не возвращает.
 Также у функции get_gray - нет тестов, поскольку она возвращает результат.
+
+# Дебаггер
+1. Тип изобржения
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/73825639/145073023-a025406a-89c2-4e51-9bf0-5bd40b18e7e7.png">
+2. Высота
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/73825639/145073237-66fabb87-1c3b-4e63-9a27-bf09c6c1bb14.png">
+3. Ширина
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/73825639/145073379-ddc9716d-bd0a-41d5-94fa-32bac47b898f.png">
+4.
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/73825639/145074449-40b644e5-5e74-49d7-ad99-5db25f91a61d.png">
